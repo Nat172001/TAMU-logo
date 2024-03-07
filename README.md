@@ -6,7 +6,7 @@ The program extracts the coordinates of the A&M logo using an online image ruler
 <img src="https://github.com/Nat172001/Robot-drawing-TAMU-logo/assets/119772443/854360ea-f1eb-4bbe-a7e6-69e71b4f1d07" width="400" height="400">
 
 **Hyperparameters**
-The program includes four tunable hyperparameters:
+The program includes four tunable hyperparameters: <br/> 
 **ε_D**: Tolerance for distance accuracy <br/>
 **ε_A**: Tolerance for angle accuracy <br/>
 **κ_v**: Linear velocity tuning parameter <br/>
