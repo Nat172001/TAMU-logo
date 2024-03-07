@@ -7,10 +7,10 @@ The program extracts the coordinates of the A&M logo using an online image ruler
 
 **Hyperparameters**
 The program includes four tunable hyperparameters:
-**ε_D**: Tolerance for distance accuracy
-**ε_A**: Tolerance for angle accuracy
-**κ_v**: Linear velocity tuning parameter
-**κ_w**: Angular velocity tuning parameter
+**ε_D**: Tolerance for distance accuracy <br/>
+**ε_A**: Tolerance for angle accuracy <br/>
+**κ_v**: Linear velocity tuning parameter <br/>
+**κ_w**: Angular velocity tuning parameter <br/>
 These hyperparameters affect the accuracy of the drawn logo and the speed of the robot's movement.
 
 **Class Structure**
