@@ -3,7 +3,7 @@ This repository contains a Python program for navigating a robot around the scre
 **Overview**
 The program extracts the coordinates of the A&M logo using an online image ruler and stores them in a list. During runtime, it executes the movetogoal function every 0.1 seconds. This function calculates both the distance and angle between the robot’s current position and the goal coordinate it is currently moving toward. Linear and angular velocities are adjusted proportionally to the differences in magnitude of these distances and angles.
 
-<img src="https://github.com/Nat172001/Robot-drawing-TAMU-logo/assets/119772443/854360ea-f1eb-4bbe-a7e6-69e71b4f1d07" width="400" height="400">
+<img src="![image](https://github.com/Nat172001/TAMU-logo/assets/119772443/710ba4c9-4ca3-4300-bb54-80c7829e60e5)" width="400" height="400">
 
 **Hyperparameters**
 The program includes four tunable hyperparameters: <br/> 
